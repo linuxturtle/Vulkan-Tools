@@ -2,8 +2,9 @@ Source: vulkan-tools
 Section: devel
 Priority: optional
 Maintainer: Brett Johnson <brett@lunarg.com>
-Build-Depends: debhelper (>=10),
+Build-Depends: debhelper (>=9),
  cmake,
+ python3,
  vulkan-headers,
  libvulkan1,
  vulkan-validation-layers,
