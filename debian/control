@@ -8,6 +8,7 @@ Build-Depends: debhelper (>=9),
  vulkan-headers,
  libvulkan1,
  vulkan-validation-layers,
+ spirv-tools,
  glslang,
  pkg-config,
  quilt
