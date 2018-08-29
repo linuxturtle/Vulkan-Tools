@@ -8,6 +8,7 @@ Build-Depends: debhelper (>= 11),
  libwayland-dev,
  libx11-dev,
  libxcb1-dev,
+ libxrandr-dev,
  python3,
 Standards-Version: 4.2.0
 Section: libs
